@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">COUNTRY-FLAG</string>
+    <string name="country_france">France</string>
+    <string name="country_germany">Germany</string>
+    <string name="country_usa">United States</string>
+    <string name="country_japan">Japan</string>
+    <string name="country_canada">Canada</string>
+    <string name="country_brazil">Brazil</string>
+    <string name="country_australia">Australia</string>
+    <string name="country_india">India</string>
+    <string name="country_south_africa">South Africa</string>
+    <string name="country_china">China</string>
+    <string name="country_drc">DRC</string>
+    <string name="country_description_1">One of the best country</string>
+    <string name="country_description_2">The best country of all time</string>
+    <string name="country_description_3">The best country in the world</string>
+    <string name="country_description_4">The best country in the world</string>
+    <string name="country_description_5">The best country in the world</string>
+    <string name="country_description_6">The best country in the world</string>
+    <string name="country_description_7">The best country in the world</string>
+    <string name="country_description_8">The best country in the world</string>
+    <string name="country_description_9">The best country in the world</string>
+    <string name="country_description_10">The best country in the world</string>
+    <string name="country_description_11">The best country in the world</string>
+    <string name="about">Capital/Code</string>
+</resources>
